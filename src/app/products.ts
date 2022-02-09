@@ -1,5 +1,6 @@
 export const products = [
   {
+    coverImage: './assets/img/phone-cover.jpg',
     name: 'Phone XL',
     price: 799,
     description: 'A large phone with one of the best screens',
@@ -11,6 +12,7 @@ export const products = [
     headingtext3: 'This area is sample text 3'
   },
   {
+    coverImage: './assets/img/phone-cover.jpg',
     name: 'Phone Mini',
     price: 699,
     description: 'A great phone with one of the best cameras',
@@ -22,6 +24,7 @@ export const products = [
     headingtext3: 'This area is sample text 3'
   },
   {
+    coverImage: './assets/img/phone-cover.jpg',
     name: 'Phone Standard',
     price: 299,
     description: 'A normal phone with one of the best cameras',
@@ -33,6 +36,7 @@ export const products = [
     headingtext3: 'This area is sample text 3'
   },
   {
+    coverImage: './assets/img/phone-cover.jpg',
     name: 'Phone Pro',
     price: 1000,
     description: 'A Profesional phone with one of the marberas screens',
