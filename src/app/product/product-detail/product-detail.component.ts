@@ -8,7 +8,7 @@ import { products } from '../../products';
   styleUrls: ['./product-detail.component.scss']
 })
 export class ProductDetailComponent implements OnInit {
-  product: any
+  public product :any;
 
   constructor(private route: ActivatedRoute) { }
 

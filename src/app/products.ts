@@ -13,5 +13,10 @@ export const products = [
     name: 'Phone Standard',
     price: 299,
     description: ''
+  },
+  {
+    name: 'Phone Pro',
+    price: 1000,
+    description: 'A Profesional phone with one of the marberas screens'
   }
 ];
